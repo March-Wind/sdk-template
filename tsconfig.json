@@ -12,7 +12,6 @@
     "jsx": "react",
     "baseUrl": "./",
     "skipLibCheck": true,
-    "types": ["svelte", "node"]
   },
   "exclude": ["node_modules", "lib"],
   "include": ["**/*"]
